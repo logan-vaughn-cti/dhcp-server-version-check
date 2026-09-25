@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "url": "https://dev.azure.com/CTI-AV/Skunkworks/_apis/git/repositories/DHCP-Server/items?path=/dist/CTI%20DHCP%20Server%20Setup.exe&versionDescriptor.version=main&versionDescriptor.versionType=branch&download=true&%24format=octetStream&api-version=7.1",
-  "notes": "Choosing an adapter refills the range and DNS; DNS defaults to 8.8.8.8 and 1.1.1.1."
+  "version": "1.1.2",
+  "url": "https://dev.azure.com/CTI-AV/Skunkworks/_apis/git/repositories/DHCP-Server/items?path=/dist/CTI%20DHCP%20Server%20Setup%20v1_1_2.exe&versionDescriptor.version=main&versionDescriptor.versionType=branch&download=true&%24format=octetStream&api-version=7.1",
+  "notes": "The setup's name now carries its version; empty Gateway and DNS fields say optional while serving."
 }
