@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
-  "url": "https://dev.azure.com/CTI-AV/Skunkworks/_apis/git/repositories/DHCP-Server/items?path=/dist/CTI%20DHCP%20Server%20Setup%20v1_1_2.exe&versionDescriptor.version=main&versionDescriptor.versionType=branch&download=true&%24format=octetStream&api-version=7.1",
-  "notes": "The setup's name now carries its version; empty Gateway and DNS fields say optional while serving."
+  "version": "1.1.3",
+  "url": "https://dev.azure.com/CTI-AV/Skunkworks/_apis/git/repositories/DHCP-Server/items?path=/dist/CTI%20DHCP%20Server%20Setup%20v1_1_3.exe&versionDescriptor.version=main&versionDescriptor.versionType=branch&download=true&%24format=octetStream&api-version=7.1",
+  "notes": "A device that was offered an address but had not yet confirmed it no longer shows as released after a restart. Engine cleanup."
 }
