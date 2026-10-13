@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "url": "https://dev.azure.com/CTI-AV/Skunkworks/_apis/git/repositories/DHCP-Server/items?path=/dist/CTI%20DHCP%20Server%20Setup%20v1_3_0.exe&versionDescriptor.version=main&versionDescriptor.versionType=branch&download=true&%24format=octetStream&api-version=7.1",
-  "sha256": "cbe14dd5a846e78deac598d34a3c61191bac2656d192b5f8476afa2940e7657a",
-  "notes": "Closing the window keeps it serving in the tray; a taskbar number counts online clients; Settings and Log collapse; from this version on, updates install from this banner."
+  "version": "1.3.1",
+  "url": "https://dev.azure.com/CTI-AV/Skunkworks/_apis/git/repositories/DHCP-Server/items?path=/dist/CTI%20DHCP%20Server%20Setup%20v1_3_1.exe&versionDescriptor.version=main&versionDescriptor.versionType=branch&download=true&%24format=octetStream&api-version=7.1",
+  "sha256": "69afadd7f7fcd8c971f93065b7f2f2ec0111b85a6dbe3e3e5a0822c71ccc8e5d",
+  "notes": "Collapsed Settings now shows the address range beside the network adapter."
 }
