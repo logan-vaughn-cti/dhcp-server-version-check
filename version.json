@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "url": "https://dev.azure.com/CTI-AV/Skunkworks/_apis/git/repositories/DHCP-Server/items?path=/dist/CTI%20DHCP%20Server%20Setup%20v1_4_0.exe&versionDescriptor.version=main&versionDescriptor.versionType=branch&download=true&%24format=octetStream&api-version=7.1",
-  "sha256": "17290dd52a04cf9a01147ab9d944ce9107a7608a7e4fbcd37926c5a2a56ec13b",
-  "notes": "Change log on the ... menu: what each version brought, newest first."
+  "version": "1.4.1",
+  "url": "https://dev.azure.com/CTI-AV/Skunkworks/_apis/git/repositories/DHCP-Server/items?path=/dist/CTI%20DHCP%20Server%20Setup%20v1_4_1.exe&versionDescriptor.version=main&versionDescriptor.versionType=branch&download=true&%24format=octetStream&api-version=7.1",
+  "sha256": "8959539658b6a4b98e871ea729ef55cb10c3e46c912fbae48747cf4c71b1bc9b",
+  "notes": "A clicked switch or button no longer keeps a white outline; it shows only while you use Tab or the arrow keys."
 }
