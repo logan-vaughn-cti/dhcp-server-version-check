@@ -1,6 +1,1 @@
-{
-  "version": "1.5.1",
-  "url": "https://dev.azure.com/CTI-AV/Skunkworks/_apis/git/repositories/DHCP-Server/items?path=/dist/CTI%20DHCP%20Server%20Setup%20v1_5_1.exe&versionDescriptor.version=main&versionDescriptor.versionType=branch&download=true&%24format=octetStream&api-version=7.1",
-  "sha256": "65838c8dd44fc218de1874b534a55e5bd09f93fc61ef768980e59d4f7e5cfcad",
-  "notes": "A Vendor column in the lease table, and vendor names on duplicate IP warnings (looked up online once per vendor; only the first three bytes of a MAC are sent)."
-}
+{"version": "1.6.0", "url": "https://dev.azure.com/CTI-AV/Skunkworks/_apis/git/repositories/DHCP-Server/items?path=/dist/CTI%20DHCP%20Server%20Setup%20v1_6_0.exe&versionDescriptor.version=main&versionDescriptor.versionType=branch&download=true&%24format=octetStream&api-version=7.1", "sha256": "f13ca548b2c7008d3d97fbabdef4730385a9cf5fa4658c9033686a919ca17d64", "notes": "New Help under the ... menu: how to use DHCP Server, in the program itself. New Theme menu: System, Light or Dark."}
